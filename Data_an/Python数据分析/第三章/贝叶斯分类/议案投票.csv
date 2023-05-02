@@ -1,0 +1,437 @@
+ID,Name,Party,Campaign Finance Overhaul,Unemployment and Tax Benefits,Fiscal 2003 Budget Resolution,Permanent Tax Cuts,Food Stamps,Nuclear Waste,Fiscal 2003 Defense Authorization,Abortions Overseas,Defense Authorization Recommitment,Welfare Renewal,Estate Tax Repeal,Married Couples Tax Relief,Late Term Abortion Ban,Homeland Sec/Union Memb,Homeland Sec/Civil Service Emp,Homeland Sec/Whistleblower Protections,Andean Trade,Abortion Service Refusals,Medical Malpractice Awards,Military Support for UN Resolution
+1,Abercrombie,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,N
+2,Ackerman,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+3,Aderholt,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+4,Akin,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+5,Allen T.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+6,Andrews,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+7,Armey,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+8,Baca,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+9,Bachus S.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+10,Baird,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+11,Baker,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+12,Baldacci,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+13,Baldwin,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+14,Ballenger,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+15,Barcia,D,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,N,N,,Y
+16,Barr,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,
+17,Barrett,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+18,Bartlett,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,Y
+19,Barton,R,N,Y,Y,Y,N,Y,Y,N,N,,Y,Y,Y,Y,N,N,Y,N,Y,N
+20,Bass,R,Y,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+21,Becerra,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+22,Bentsen,D,Y,N,N,N,Y,Y,,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,N,Y
+23,Bereuter,R,Y,Y,Y,Y,N,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,N,Y,N
+24,Berkley,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,N
+25,Berman,D,Y,,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+26,Berry,D,Y,N,N,N,Y,Y,N,N,Y,Y,Y,N,Y,N,Y,N,N,N,N,Y
+27,Biggert,R,N,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+28,Bilirakis,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+29,Bishop,D,Y,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,N,Y,N,Y
+30,Blagojevich,D,Y,N,,N,,Y,N,Y,Y,Y,N,,N,N,Y,Y,N,Y,N,Y
+31,Blumenauer,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+32,Blunt,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,,,,,N,Y,N
+33,Boehlert,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y,N
+34,Boehner,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+35,Bonilla,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+36,Bonior,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,,N,Y,Y,N,Y,,N
+37,Bono,R,N,Y,Y,Y,Y,Y,Y,Y,N,N,Y,,Y,Y,N,N,Y,N,Y,N
+38,Boozman,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+39,Borski,D,Y,N,N,N,Y,Y,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+40,Boswell,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,N
+41,Boucher,D,Y,N,N,N,Y,Y,,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,Y
+42,Boyd,D,Y,N,N,N,Y,Y,N,Y,N,Y,N,N,Y,Y,Y,N,N,Y,Y,Y
+43,Brady K.,R,N,,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+44,Brady R.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+45,Brown C.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+46,Brown H.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+47,Brown S.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+48,Bryant,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+49,Burr,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+50,Burton,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+51,Buyer,R,N,Y,Y,Y,N,Y,Y,N,N,,Y,Y,Y,Y,N,N,Y,N,Y,N
+52,Callahan ,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,,,N
+53,Calvert,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+54,Camp,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+55,Cannon,R,N,Y,Y,Y,N,Y,Y,,,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+56,Cantor,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+57,Capito,R,Y,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+58,Capps,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,Y
+59,Capuano,D,Y,N,N,N,Y,N,N,Y,Y,Y,,N,N,N,Y,Y,N,Y,N,Y
+60,Cardin,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+61,Carson B.,D,Y,N,N,N,Y,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N
+62,Carson J.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+63,Castle,R,Y,Y,Y,Y,Y,Y,N,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+64,Chabot,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+65,Chambliss,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+66,Clay,D,Y,N,N,N,Y,Y,N,,,Y,Y,N,N,N,Y,Y,N,Y,N,Y
+67,Clayton,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,,N,N,Y,Y,N,Y,N,Y
+68,Clement,D,Y,N,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,N
+69,Clyburn,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+70,Coble,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,N,N
+71,Collins M.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+72,Combest,R,N,Y,Y,Y,N,Y,Y,,,,,,Y,Y,,,,N,Y,N
+73,Condit,D,Y,N,N,Y,,N,N,Y,Y,Y,Y,Y,,N,Y,Y,N,Y,N,Y
+74,Conyers,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+75,Cooksey,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,
+76,Costello,D,Y,N,N,N,Y,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,N,N,N,Y
+77,Cox ?,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+78,Coyne,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+79,Cramer,D,Y,Y,N,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N
+80,Crane,R,N,Y,Y,Y,,,,,,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+81,Crenshaw,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+82,Crowley,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+83,Cubin,R,,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+84,Culberson,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+85,Cummings,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+86,Cunningham,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,,N,Y,N,Y,N
+87,Davis D.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+88,Davis Jim,D,Y,N,N,N,Y,Y,,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,Y
+89,Davis Jo Ann,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+90,Davis S.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,Y,Y,Y,Y,N,Y
+91,Davis T.,R,N,Y,Y,Y,Y,N,Y,N,N,,Y,Y,Y,Y,N,N,Y,N,Y,N
+92,Deal,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+93,DeFazio,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+94,DeGette,D,Y,N,N,N,,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+95,Delahunt,D,Y,N,N,,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+96,DeLauro,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+97,DeLay,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+98,DeMint,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+99,Deutsch,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,N
+100,Diaz-Balart,R,N,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,N,N
+101,Dicks,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,N,Y,Y,N,N
+102,Dingell,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+103,Doggett,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+104,Dooley,D,Y,N,N,N,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,N,Y,Y,Y,N
+105,Doolittle,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,N,N
+106,Doyle,D,Y,N,N,N,Y,Y,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+107,Dreier,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+108,Duncan,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+109,Dunn,R,N,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+110,Edwards C.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,Y,N
+111,Ehlers,R,N,Y,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+112,Ehrlich,R,N,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,N,N
+113,Emerson,R,N,Y,Y,Y,,Y,Y,N,N,N,,Y,Y,Y,N,N,Y,N,Y,N
+114,Engel,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+115,English,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,,Y,Y,N,N,Y,N,Y,N
+116,Eshoo,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+117,Etheridge,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,Y
+118,Evans,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+119,Everett,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+120,Farr,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+121,Fattah,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+122,Ferguson,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+123,Filner,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+124,Flake,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,N,N
+125,Fletcher,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,
+126,Foley,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+127,Forbes,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+128,Ford,D,Y,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,N,Y
+129,Fossella,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+130,Frank Barney,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+131,Frelinghuysen,R,Y,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+132,Frost,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+133,Gallegly,R,N,Y,Y,Y,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+134,Ganske,R,Y,Y,Y,Y,,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,,Y,N
+135,Gekas,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+136,Gephardt,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,N
+137,Gibbons,R,N,Y,Y,Y,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+138,Gilchrest,R,Y,Y,Y,Y,,Y,Y,Y,N,N,,Y,Y,Y,,N,Y,N,Y,N
+139,Gillmor,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+140,Gilman,R,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,N
+141,Gonzalez,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+142,Goode,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+143,Goodlatte,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+144,Gordon B.,D,Y,N,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,N
+145,Goss,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+146,Graham L.,R,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,N,N
+147,Granger,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+148,Graves,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+149,Green G.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+150,Green M.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+151,Greenwood,R,Y,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y,N
+152,Grucci,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,N,N
+153,Gutierrez,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+154,Gutknecht,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+155,Hall R.,D,N,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,Y,N
+156,Hall T.,D,Y,N,N,N,Y,,,,,Y,N,,Y,N,Y,Y,N,,,
+157,Hansen,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,,N,Y,N
+158,Harman,D,Y,Y,N,N,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,Y,N
+159,Hart,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+160,Hastert,R,,Y,Y,Y,,Y,,N,,,Y,,,,,,Y,,,
+161,Hastings A.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+162,Hastings D.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+163,Hayes,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+164,Hayworth,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+165,Hefley,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+166,Herger,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+167,Hill,D,Y,N,N,N,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,N,Y,Y,N,Y
+168,Hilleary,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,,Y,Y,N,N,Y,N,Y,N
+169,Hilliard,D,N,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,,N,Y
+170,Hinchey,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+171,Hinojosa,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y
+172,Hobson,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+173,Hoeffel,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+174,Hoekstra,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+175,Holden,D,Y,N,N,N,Y,Y,N,N,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N
+176,Holt,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,Y
+177,Honda,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+178,Hooley,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,Y
+179,Horn,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,Y,Y,Y,Y,N
+180,Hostettler,R,N,Y,Y,Y,N,Y,N,N,N,N,Y,Y,Y,Y,N,Y,N,N,Y,N
+181,Houghton,R,Y,Y,Y,Y,,Y,Y,Y,N,N,N,,Y,Y,N,N,Y,Y,Y,N
+182,Hoyer,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+183,Hulshof,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,Y
+184,Hunter,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,N,N,N,N,N,Y,N
+185,Hyde,R,N,Y,Y,Y,N,,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+186,Inslee,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+187,Isakson,R,N,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+188,Israel,D,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,N
+189,Issa,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+190,Istook,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,N,N
+191,Jackson J.,D,Y,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,Y,Y,N,Y,N,N
+192,Jackson-Lee S.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+193,Jefferson,D,Y,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y
+194,Jenkins,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+195,John,D,Y,Y,N,N,Y,Y,N,,,Y,Y,Y,Y,N,Y,N,Y,N,N,N
+196,Johnson E.B.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+197,Johnson N.,R,Y,Y,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y,N
+198,Johnson Sam,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+199,Johnson Timothy,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,N,N
+200,Jones S.,D,Y,N,N,,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+201,Jones W.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,Y
+202,Kanjorski,D,Y,N,N,N,Y,Y,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,N
+203,Kaptur,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+204,Keller,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+205,Kelly,R,N,Y,Y,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+206,Kennedy M.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+207,Kennedy P.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,N
+208,Kerns,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+209,Kildee,D,Y,N,N,N,Y,Y,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+210,Kilpatrick,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+211,Kind R.,D,Y,N,N,N,Y,,N,Y,Y,Y,N,N,N,N,Y,N,N,Y,N,Y
+212,King P.,R,N,Y,Y,Y,Y,Y,Y,N,N,,Y,Y,Y,Y,N,N,Y,N,N,N
+213,Kingston,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+214,Kirk,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,N,Y,N,Y,N
+215,Kleczka,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+216,Knollenberg,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+217,Kolbe,R,N,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y,N
+218,Kucinich,D,Y,N,N,N,Y,N,N,Y,Y,N,N,N,,N,Y,Y,N,N,N,N
+219,LaFalce,D,Y,N,N,N,Y,N,,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+220,LaHood,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+221,Lampson,D,Y,N,N,N,Y,Y,N,Y,Y,,Y,N,Y,N,Y,N,N,Y,N,Y
+222,Langevin,D,Y,N,N,N,Y,N,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+223,Lantos,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+224,Largent,R,N,Y,,,,,,,,,,,,,,,,,,
+225,Larsen R.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,Y
+226,Larson J.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+227,Latham,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+228,LaTourette,R,Y,Y,Y,Y,,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,Y
+229,Leach,R,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,Y,Y,Y,N
+230,Lee,D,Y,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,Y,Y,N,Y,N,N
+231,Levin S.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+232,Lewis Jerry,R,N,Y,Y,Y,Y,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+233,Lewis John,D,Y,N,N,N,Y,N,N,,,Y,,N,N,N,Y,Y,N,Y,N,N
+234,Lewis R.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+235,Linder,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+236,Lipinski,D,N,Y,N,N,Y,Y,N,N,N,Y,N,Y,Y,N,Y,Y,,N,N,Y
+237,LoBiondo,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+238,Lofgren,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+239,Lowey,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,,N,N,Y,Y,N,Y,N,N
+240,Lucas F.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+241,Lucas K.,D,Y,Y,Y,Y,N,Y,N,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+242,Luther,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+243,Lynch,D,Y,N,N,N,Y,N,N,N,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+244,Maloney C.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+245,Maloney J.,D,Y,N,N,N,Y,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,N,Y
+246,Manzullo,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,Y,Y,N,Y,N
+247,Markey,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+248,Mascara,D,Y,N,N,N,Y,Y,N,N,Y,Y,N,Y,Y,N,Y,Y,N,,N,Y
+249,Matheson,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N
+250,Matsui,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+251,McCarthy C.,D,Y,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,Y
+252,McCarthy K.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,,N,N,Y,Y,N,Y,N,Y
+253,McCollum,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+254,McCrery,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+255,McDermott,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+256,McGovern,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+257,McHugh,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+258,McInnis,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,,Y,Y,N,N,Y,N,Y,N
+259,McIntyre,D,Y,N,N,Y,N,Y,N,N,Y,Y,Y,Y,Y,N,Y,N,N,N,N,Y
+260,McKeon,R,N,Y,Y,Y,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+261,McKinney,D,Y,N,N,N,Y,N,N,Y,Y,N,N,Y,N,N,Y,Y,N,Y,N,N
+262,McNulty,D,Y,N,N,N,Y,N,N,N,Y,Y,N,N,Y,N,Y,Y,N,Y,N,N
+263,Meehan,D,Y,N,N,N,Y,N,,Y,Y,Y,N,N,N,,,,,Y,N,Y
+264,Meek C.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+265,Meeks G.,D,Y,N,N,N,,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+266,Menendez,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,N,N,Y,N,Y
+267,Mica,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+268,Millender-McDonald,D,Y,N,N,N,Y,N,N,,,,N,N,N,N,Y,Y,N,Y,N,Y
+269,Miller D.,R,N,,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+270,Miller Gary,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+271,Miller George,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+272,Miller J.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+273,Mink,D,Y,N,N,N,Y,N,N,Y,Y,N,N,Y,N,N,Y,Y,N,,,
+274,Mollohan,D,N,N,N,N,Y,Y,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+275,Moore,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,Y,Y,Y,Y,N,N
+276,Moran James,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+277,Moran Jerry,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+278,Morella,R,Y,N,Y,N,Y,Y,N,Y,N,Y,N,Y,N,N,Y,Y,Y,Y,N,Y
+279,Murtha,D,N,N,N,N,Y,Y,N,N,Y,,N,N,Y,N,Y,N,N,N,Y,N
+280,Myrick,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+281,Nadler,D,Y,N,N,N,Y,,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+282,Napolitano,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+283,Neal,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+284,Nethercutt,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+285,Ney,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+286,Northup,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+287,Norwood,R,N,Y,Y,Y,N,Y,Y,N,N,,Y,Y,Y,Y,N,N,N,N,Y,N
+288,Nussle,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+289,Oberstar,D,Y,N,N,N,Y,N,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,N
+290,Obey,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+291,Olver,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+292,Ortiz,D,Y,N,N,N,Y,N,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+293,Osborne,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+294,Ose,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+295,Otter,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+296,Owens,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,,N,N,Y,Y,N,Y,N,N
+297,Oxley ,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+298,Pallone,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+299,Pascrell,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+300,Pastor,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+301,Paul,R,N,Y,N,Y,N,N,Y,N,N,N,Y,Y,Y,Y,N,Y,N,N,N,Y
+302,Payne,D,Y,,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+303,Pelosi,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+304,Pence,R,N,Y,Y,Y,N,N,Y,N,N,N,Y,,Y,Y,N,N,Y,N,Y,N
+305,Peterson C.,D,N,N,N,N,Y,Y,Y,N,N,Y,Y,,Y,N,Y,N,N,N,Y,Y
+306,Peterson J.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+307,Petri,R,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,Y,Y,N,Y,N
+308,Phelps,D,Y,N,N,N,Y,Y,N,N,N,Y,Y,Y,,N,Y,Y,N,N,N,N
+309,Pickering,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+310,Pitts,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+311,Platts,R,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+312,Pombo,R,N,Y,Y,Y,N,N,Y,N,N,,Y,Y,Y,Y,N,N,Y,N,Y,N
+313,Pomeroy,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N
+314,Portman,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+315,Price D.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+316,Pryce D.,R,N,Y,Y,Y,,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+317,Putnam,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+318,Quinn,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,,Y,Y,N,N,N,N,Y,N
+319,Radanovich,R,N,Y,Y,Y,,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+320,Rahall,D,N,N,N,N,Y,N,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+321,Ramstad,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+322,Rangel,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+323,Regula,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+324,Rehberg,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+325,Reyes,D,Y,N,N,N,Y,N,Y,,,Y,N,Y,Y,N,Y,Y,N,Y,N,Y
+326,Reynolds,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+327,Riley,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+328,Rivers,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+329,Rodriguez,D,Y,N,N,N,,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+330,Roemer,D,Y,N,N,Y,Y,N,N,N,Y,Y,N,Y,Y,N,Y,N,N,N,N,N
+331,Rogers H.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+332,Rogers M.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+333,Rohrabacher,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+334,Ros-Lehtinen,R,N,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,Y,N
+335,Ross,D,Y,N,N,N,Y,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,N,N,N,N
+336,Rothman,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+337,Roukema,R,Y,,Y,,N,Y,,,,N,,Y,Y,Y,N,,,,,
+338,Roybal-Allard,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+339,Royce,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+340,Rush,D,Y,N,N,N,Y,Y,N,Y,Y,N,N,N,N,N,Y,Y,N,Y,N,N
+341,Ryan P.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+342,Ryun J.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+343,Sabo,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+344,Sanchez,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+345,Sanders,D,Y,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,Y,Y,N,Y,N,Y
+346,Sandlin,D,Y,N,N,Y,Y,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,N,Y,N,Y
+347,Sawyer,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+348,Saxton ,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+349,Schaffer,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+350,Schakowsky,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+351,Schiff,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,Y,Y,Y,N,Y,N,Y
+352,Schrock,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+353,Scott,D,Y,N,N,N,Y,,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+354,Sensenbrenner,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+355,Serrano,D,Y,N,N,N,Y,N,N,Y,Y,Y,,N,N,N,Y,Y,N,Y,N,N
+356,Sessions P.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+357,Shadegg,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+358,Shaw,R,N,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+359,Shays,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+360,Sherman,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+361,Sherwood,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+362,Shimkus,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+363,Shows,D,N,Y,N,N,N,Y,N,N,N,Y,Y,Y,Y,N,Y,N,N,N,N,N
+364,Shuster Bill,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+365,Simmons,R,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,N,N,Y,Y,Y
+366,Simpson,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+367,Skeen,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+368,Skelton,D,Y,N,N,N,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,Y
+369,Slaughter,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+370,Smith A.,D,Y,N,N,N,,N,N,Y,Y,Y,N,N,N,N,Y,N,Y,Y,N,Y
+371,Smith C.,R,N,Y,Y,Y,Y,Y,,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+372,Smith L.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,,Y,Y,N,N,Y,N,Y,N
+373,Smith N.,R,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+374,Snyder,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,N,Y,Y,N,Y
+375,Solis,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+376,Souder,R,N,Y,Y,Y,Y,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+377,Spratt,D,Y,N,N,N,,Y,N,Y,Y,Y,N,N,Y,N,Y,N,N,Y,N,Y
+378,Stark,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+379,Stearns,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+380,Stenholm,D,Y,,N,N,Y,Y,N,N,N,Y,N,N,Y,Y,N,N,Y,N,Y,N
+381,Strickland,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+382,Stump,R,N,,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,,N,N,,,,
+383,Stupak,D,Y,N,N,N,Y,Y,N,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,Y
+384,Sullivan,R,,,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+385,Sununu,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+386,Sweeney,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+387,Tancredo,R,N,Y,Y,Y,N,Y,N,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+388,Tanner,D,Y,N,N,N,Y,Y,N,Y,Y,,Y,N,Y,N,Y,N,Y,Y,N,Y
+389,Tauscher,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,N,Y
+390,Tauzin,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+391,Taylor C.,R,N,,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+392,Taylor G.,D,Y,N,N,N,N,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,Y,N
+393,Terry,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,,Y,N,N,N
+394,Thomas B.,R,N,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N
+395,Thompson B.,D,N,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+396,Thompson M.,D,Y,N,N,N,Y,N,N,Y,Y,Y,Y,N,N,N,Y,Y,N,Y,,Y
+397,Thornberry,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+398,Thune,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+399,Thurman K.,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y,Y,N,,,Y
+400,Tiahrt,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+401,Tiberi,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+402,Tierney,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+403,Toomey,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+404,Towns,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,,N,N
+405,Traficant,D,,,,,,,,,,,,,,,,,,,,
+406,Turner,D,Y,N,N,N,Y,Y,N,Y,N,Y,N,N,Y,N,Y,N,N,Y,N,N
+407,Udall M.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+408,Udall T.,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+409,Upton,R,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+410,Velazquez,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+411,Visclosky,D,Y,N,N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,Y,N,Y,N,Y
+412,Vitter,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+413,Walden,R,N,Y,Y,Y,N,Y,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+414,Walsh,R,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+415,Wamp,R,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+416,Waters,D,Y,N,N,N,Y,N,N,Y,Y,N,N,N,N,N,Y,Y,N,Y,N,Y
+417,Watkins,R,N,Y,Y,Y,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+418,Watson,D,Y,N,N,N,Y,N,,,,Y,N,N,N,N,Y,Y,N,Y,N,Y
+419,Watt M.,D,Y,N,N,N,Y,Y,N,Y,Y,N,N,N,N,N,Y,Y,N,Y,N,Y
+420,Watts J.C.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+421,Waxman,D,Y,N,N,N,Y,,,,,Y,N,N,N,N,Y,Y,N,Y,N,Y
+422,Weiner,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+423,Weldon C.,R,Y,,N,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
+424,Weldon D.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+425,Weller,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+426,Wexler,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y
+427,Whitfield,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+428,Wicker,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+429,Wilson H.,R,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+430,Wilson J.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,N,N
+431,Wolf,R,Y,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+432,Woolsey,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,N
+433,Wu,D,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+434,Wynn,D,N,N,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,Y
+435,Young C.W.,R,N,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,N,Y,N
+436,Young D.,R,N,Y,Y,Y,N,N,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y,N
